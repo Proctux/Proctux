@@ -1,6 +1,6 @@
 ### Hi there, I'm Luiz 👋
 
-![Alt text](https://marquesfernandes.com/wp-content/uploads/2020/01/1555172.jpg)
+![Alt text](https://blog.dankicode.com/wp-content/uploads/2018/03/introdu%C3%A7%C3%A3o-ao-javascript.png)
 
 I'm 25 years old and currently working as a Mobile Developer. <br><br>
 
